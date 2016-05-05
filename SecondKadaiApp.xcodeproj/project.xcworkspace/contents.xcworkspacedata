@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:SecondKadai.app.xcodeproj">
+      location = "self:/Users/ebata/Desktop/TechAchademyApps/SecondKadai.app/SecondKadaiApp.xcodeproj">
    </FileRef>
 </Workspace>

@@ -207,7 +207,7 @@
 					};
 				};
 			};
-			buildConfigurationList = ADF2CB361CDB1C20006FC50D /* Build configuration list for PBXProject "SecondKadai.app" */;
+			buildConfigurationList = ADF2CB361CDB1C20006FC50D /* Build configuration list for PBXProject "SecondKadaiApp" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -470,7 +470,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		ADF2CB361CDB1C20006FC50D /* Build configuration list for PBXProject "SecondKadai.app" */ = {
+		ADF2CB361CDB1C20006FC50D /* Build configuration list for PBXProject "SecondKadaiApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				ADF2CB611CDB1C20006FC50D /* Debug */,
@@ -486,6 +486,7 @@
 				ADF2CB651CDB1C20006FC50D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ADF2CB661CDB1C20006FC50D /* Build configuration list for PBXNativeTarget "SecondKadai.appTests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +495,7 @@
 				ADF2CB681CDB1C20006FC50D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ADF2CB691CDB1C20006FC50D /* Build configuration list for PBXNativeTarget "SecondKadai.appUITests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +504,7 @@
 				ADF2CB6B1CDB1C20006FC50D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

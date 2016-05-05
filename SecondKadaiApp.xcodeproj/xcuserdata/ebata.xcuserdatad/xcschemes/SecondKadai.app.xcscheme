@@ -17,7 +17,7 @@
                BlueprintIdentifier = "ADF2CB3A1CDB1C20006FC50D"
                BuildableName = "SecondKadai.app.app"
                BlueprintName = "SecondKadai.app"
-               ReferencedContainer = "container:SecondKadai.app.xcodeproj">
+               ReferencedContainer = "container:SecondKadaiApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
                BlueprintIdentifier = "ADF2CB4E1CDB1C20006FC50D"
                BuildableName = "SecondKadai.appTests.xctest"
                BlueprintName = "SecondKadai.appTests"
-               ReferencedContainer = "container:SecondKadai.app.xcodeproj">
+               ReferencedContainer = "container:SecondKadaiApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -45,7 +45,7 @@
                BlueprintIdentifier = "ADF2CB591CDB1C20006FC50D"
                BuildableName = "SecondKadai.appUITests.xctest"
                BlueprintName = "SecondKadai.appUITests"
-               ReferencedContainer = "container:SecondKadai.app.xcodeproj">
+               ReferencedContainer = "container:SecondKadaiApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,7 +55,7 @@
             BlueprintIdentifier = "ADF2CB3A1CDB1C20006FC50D"
             BuildableName = "SecondKadai.app.app"
             BlueprintName = "SecondKadai.app"
-            ReferencedContainer = "container:SecondKadai.app.xcodeproj">
+            ReferencedContainer = "container:SecondKadaiApp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -78,7 +78,7 @@
             BlueprintIdentifier = "ADF2CB3A1CDB1C20006FC50D"
             BuildableName = "SecondKadai.app.app"
             BlueprintName = "SecondKadai.app"
-            ReferencedContainer = "container:SecondKadai.app.xcodeproj">
+            ReferencedContainer = "container:SecondKadaiApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -97,7 +97,7 @@
             BlueprintIdentifier = "ADF2CB3A1CDB1C20006FC50D"
             BuildableName = "SecondKadai.app.app"
             BlueprintName = "SecondKadai.app"
-            ReferencedContainer = "container:SecondKadai.app.xcodeproj">
+            ReferencedContainer = "container:SecondKadaiApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
