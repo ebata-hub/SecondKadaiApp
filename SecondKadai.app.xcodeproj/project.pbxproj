@@ -14,6 +14,7 @@
 		ADF2CB491CDB1C20006FC50D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADF2CB471CDB1C20006FC50D /* LaunchScreen.storyboard */; };
 		ADF2CB541CDB1C20006FC50D /* SecondKadai_appTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF2CB531CDB1C20006FC50D /* SecondKadai_appTests.swift */; };
 		ADF2CB5F1CDB1C20006FC50D /* SecondKadai_appUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF2CB5E1CDB1C20006FC50D /* SecondKadai_appUITests.swift */; };
+		ADF2CB6D1CDB1DD1006FC50D /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF2CB6C1CDB1DD1006FC50D /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		ADF2CB5A1CDB1C20006FC50D /* SecondKadai.appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecondKadai.appUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADF2CB5E1CDB1C20006FC50D /* SecondKadai_appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondKadai_appUITests.swift; sourceTree = "<group>"; };
 		ADF2CB601CDB1C20006FC50D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ADF2CB6C1CDB1DD1006FC50D /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				ADF2CB3E1CDB1C20006FC50D /* AppDelegate.swift */,
 				ADF2CB401CDB1C20006FC50D /* ViewController.swift */,
 				ADF2CB421CDB1C20006FC50D /* Main.storyboard */,
+				ADF2CB6C1CDB1DD1006FC50D /* ResultViewController.swift */,
 				ADF2CB451CDB1C20006FC50D /* Assets.xcassets */,
 				ADF2CB471CDB1C20006FC50D /* LaunchScreen.storyboard */,
 				ADF2CB4A1CDB1C20006FC50D /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				ADF2CB411CDB1C20006FC50D /* ViewController.swift in Sources */,
 				ADF2CB3F1CDB1C20006FC50D /* AppDelegate.swift in Sources */,
+				ADF2CB6D1CDB1DD1006FC50D /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
